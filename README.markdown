@@ -57,7 +57,7 @@ Today’s systems—centralized, urban, money-driven—disconnect us from nature
 
 ## Call to Action
 Join us as a co-creator:
-1. **Read & Share**: Dive into the [full manifesto](manifesto.md) and spread it with #ProjectDecentralize.
+1. **Read & Share**: Dive into the [full manifesto](https://github.com/project-decentralize/project-decentralize/blob/main/The%20Manifesto%20for%20Project%20Decentralize.md) and spread it with #ProjectDecentralize.
 2. **Contribute**: Add to our [GitHub](https://github.com/project-decentralize) or IPFS hub.
 3. **Connect**: Join via Discord, Matrix, or local groups.
 4. **Experiment**: Test ideas—build, grow, map—and share results.
